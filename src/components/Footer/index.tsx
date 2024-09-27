@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect } from "react";
-import Player from "../Player";
+// import Player from "../Player";
 // import { useGlobalContext } from "@/app/context/store";
 
 const items = [
