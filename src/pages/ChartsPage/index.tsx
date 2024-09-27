@@ -97,6 +97,9 @@ const ChartsPage = () => {
                 <AdBanner
                   style={{
                     display: "block",
+                    width: "728px",
+                    height: "90px",
+                    margin: "auto",
                   }}
                   dataAdFormat="auto"
                   dataFullWidthResponsive={true}
@@ -304,6 +307,9 @@ const ChartsPage = () => {
                     <AdBanner
                       style={{
                         display: "block",
+                        width: "300px",
+                        height: "250px",
+                        margin: "auto",
                       }}
                       dataAdFormat="auto"
                       dataFullWidthResponsive={true}
