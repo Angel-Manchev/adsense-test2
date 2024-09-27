@@ -306,14 +306,14 @@ const ChartsPage = () => {
 
                     <AdBanner
                       style={{
-                        display: "inline-block",
+                        display: "block",
                         width: "300px",
                         height: "250px",
-                        // margin: "auto",
+                        margin: "auto",
                       }}
                       dataAdFormat="auto"
                       dataFullWidthResponsive={true}
-                      dataAdSlot="5928675256"
+                      dataAdSlot="9497989836"
                     />
 
                     <h6 className="text text-muted sr-item">Top tracks</h6>
